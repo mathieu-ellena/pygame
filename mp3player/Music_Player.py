@@ -9,7 +9,7 @@ import random
 import os
 
 root = Tk()
-root.title("Sagar's Music Player")
+root.title("Kaiden's Music Player")
 root.geometry("500x400")
 
 # Initialize pygame mixer
